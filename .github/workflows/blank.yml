@@ -1,0 +1,24 @@
+>Running:(3.3.14.2):C:\Program Files (x86)\AutoIt3\autoit3.exe "L:\CLRv1\.NET GUI XPTABLE Assembly.au3"    
+--> Press Ctrl+F11 to Restart or Ctrl+Break -or- F11 to Stop
+.NET GUI XPTABLE Assembly.au3 (464) : ==> COM Error intercepted !
+    err.number is:         0x00000003
+    err.windescription:    NULL Pointer assignment
+    err.description is:     
+    err.source is:         
+    err.helpfile is:     
+    err.helpcontext is:     
+    err.lastdllerror is:     0
+    err.scriptline is:     464
+    err.retcode is:     0x00000000
+
++Object: 0
+.NET GUI XPTABLE Assembly.au3 (478) : ==> COM Error intercepted !
+    err.number is:         0x000000A9
+    err.windescription:    Variable must be of type 'Object'.
+    err.description is:     
+    err.source is:         
+    err.helpfile is:     
+    err.helpcontext is:     
+    err.lastdllerror is:     0
+    err.scriptline is:     478
+    err.retcode is:     0x00000000
